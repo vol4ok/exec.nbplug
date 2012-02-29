@@ -11,4 +11,5 @@ engines:
 dependencies:
   colors: ">=0.5"
   underscore: ">=1.2.0"
+  async: ">=0.1.18"
 devDependencies: {}
